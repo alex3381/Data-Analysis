@@ -4,58 +4,39 @@ Domino Pizza sales Analysis
 https://github.com/alex3381/Data-Analysis/assets/59268114/c16c4cdc-58b9-48df-b3b6-d504690d2925
 
 
-PROBLEM STATEMENT
+# Problem Statement and Key Performance Indicators (KPIs) Requirements:
 
-KPI's REQUIREMENT
+In pursuit of a comprehensive understanding of our business performance, we aim to analyze pivotal indicators within our pizza sales data. Our focus revolves around calculating specific metrics, including but not limited to:
 
-We need to analyse key indicators for our pizza sales data to gain insights into our business-
+A). Total Revenue: The summation of the total price of all pizza orders.
+B). Average Order Value: The mean amount expended per order, derived by dividing the total revenue by the total number of orders.
+C). Total Pizzas Sold: The cumulative quantity of all pizzas sold.
+D). Total Orders: The aggregate count of placed orders.
+E). Average Pizzas Per Order: The mean number of pizzas sold per order, ascertained by dividing the total number of pizzas sold by the total number of orders.
 
-performance. Specifically, we want to calculate the following metrics:
+# Charts Requirement:
 
-Total Revenue: The sum of the total price of all pizza orders.
+In an effort to glean insights and comprehend key trends from our pizza sales data, we have outlined specific chart creation requirements, encompassing:
+Daily Trend for Total Orders: The generation of a bar chart depicting the daily trend of total orders over a designated time period. This chart aims to unveil patterns or fluctuations in order volumes on a daily basis.
 
-Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+Monthly/Hourly/Weekly Trend for Total Orders: The development of a line chart illustrating the hourly trend of total orders throughout the day, facilitating the identification of peak hours or periods of heightened order activity.
 
-Total Pizzas Sold: The sum of the quantities of all pizzas sold.
+Percentage of Sales by Pizza Category: The creation of a pie chart showcasing the distribution of sales across diverse pizza categories. This chart is instrumental in providing insights into the popularity of various pizza categories and their overall contribution to sales.
 
-Total Orders: The total number of orders placed.
+Percentage of Sales by Pizza Size: The generation of a pie chart representing the percentage of sales attributed to distinct pizza sizes. This chart aids in comprehending customer preferences for pizza sizes and their consequential impact on sales.
 
-Average Pizzas Per Order: The average number of pizzas sold per order, calculated by
+Total Pizzas Sold by Pizza Category: The crafting of a funnel chart presenting the cumulative number of pizzas sold for each pizza category. This chart facilitates a comparative analysis of the sales performance among different pizza categories.
 
-dividing the total number of pizzas sold by the total number of orders.
+Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders: The development of a bar chart spotlighting the top 5 best-selling pizzas based on Revenue, Total Quantity, and Total Orders. This chart serves as a valuable tool for identifying the most popular pizza options.
 
-PROBLEM STATEMENT
+Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders: The creation of a bar chart featuring the bottom 5 worst-selling pizzas based on Revenue, Total Quantity, and Total Orders.
 
-CHARTS REQUIREMENT
+# Software Used:
 
-I wILL like to visualize various aspects of our pizza sales data to gain insights and understand key. trends. I have identified the following requirements for creating charts:
-
-1. Daily Trend for Total Orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
-
-2. Monthly/ Hourly/ Weekly Trend for Total Orders: Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high order activity.
-
-3. Percentage of Sales by Pizza Category: Create a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
-
-4. Percentage of Sales by Pizza Size:
-Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on sales.
-
-5. Total Pizzas Sold by Pizza Category: Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories.
-
-6. Top 5 Best Sellers by Revenue, Total Quantity and Total Orders: Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will help us identify the most popular pizza options.
-
-Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:
-Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity,
-
-SOFTWARE USED
-
-MS OFFICE/ EXCEL: VERSION 2021
-
-MS SQL SERVER: 19.0 SQL SERVER MANAGEMENT STUDIO - 19.0.20209.0
-
-POWER BI: JUNE 2023 Version
-
-TABLEAU DESKTOP: 2022.3.0
-FUNCTIONALITIES WE WILL USE
+MS Office/Excel: Version 2021
+MS SQL Server: 19.0 SQL Server Management Studio - 19.0.20209.0
+Power BI: June 2023 Version
+Tableau Desktop: 2022.3.0
 
 S/N	SQL-MS SQL SERVER	EXCEL	POWER BI	TABLEAU	
 1	✓ Creating Database	✓ Connecting to SQL Server	✓ Connecting to SQL Server	✓ Connecting to SQL Server
@@ -78,7 +59,7 @@ S/N	SQL-MS SQL SERVER	EXCEL	POWER BI	TABLEAU
 18	✓ CTE.	✓ Dynamic Dashboard	✔ Formatting visuals	✓ Objects	
 19	✓ Partition		✓ Creating Functions	✓ Creating Dashboards
 20  ✓ Navigations
-![image](https://github.com/alex3381/Data-Analysis/assets/59268114/1f0e5cef-81c0-4d2a-bdb7-0c92df5a90dc)
+
 <img width="1470" alt="Screenshot 2023-12-20 at 7 00 47 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/4c82e6ab-c08b-4304-acd4-e1ceef6f8206">
 <img width="1470" alt="Screenshot 2023-12-20 at 7 00 00 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/a1d7993e-b12b-4129-9330-274d8f92d85a">
 <img width="1470" alt="Screenshot 2023-12-20 at 6 59 34 pm" src="https://github.com/<img width="1470" alt="Screenshot 2023-12-20 at 6 59 19 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/ebec9f4d-7055-4ddf-b23f-5dc00f1edac8">
