@@ -33,10 +33,10 @@ Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders: The creation
 
 # Software Used:
 
-MS Office/Excel: Version 2021
-MS SQL Server: 19.0 SQL Server Management Studio - 19.0.20209.0
-Power BI: June 2023 Version
-Tableau Desktop: 2022.3.0
+MS Office/Excel: Version 2021<br />
+MS SQL Server: 19.0 SQL Server Management Studio - 19.0.20209.0<br />
+Power BI: June 2023 Version<br />
+Tableau Desktop: 2023.3.0<br />
 
 S/N	SQL-MS SQL SERVER	EXCEL	POWER BI	TABLEAU	
 1	✓ Creating Database	✓ Connecting to SQL Server	✓ Connecting to SQL Server	✓ Connecting to SQL Server
