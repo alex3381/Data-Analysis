@@ -95,7 +95,7 @@ S/N	SQL-MS SQL SERVER	EXCEL	POWER BI	TABLEAU
 17	✓ Distinct	✓ Dynamic charts	✓ Creating Charts	✓ Tiled/Floating Containers
 18	✓ CTE.	✓ Dynamic Dashboard	✔ Formatting visuals	✓ Objects	
 19	✓ Partition		✓ Creating Functions	✓ Creating Dashboards
-20			           ✓ Navigations
+20  ✓ Navigations
 ![image](https://github.com/alex3381/Data-Analysis/assets/59268114/1f0e5cef-81c0-4d2a-bdb7-0c92df5a90dc)
 <img width="1470" alt="Screenshot 2023-12-20 at 7 00 47 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/4c82e6ab-c08b-4304-acd4-e1ceef6f8206">
 <img width="1470" alt="Screenshot 2023-12-20 at 7 00 00 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/a1d7993e-b12b-4129-9330-274d8f92d85a">
