@@ -71,7 +71,6 @@ S/N	SQL-MS SQL SERVER	EXCEL	POWER BI	TABLEAU
 
 # Conclusion:
 In conclusion, the recommended approach involves a combination of SQL queries for robust data gathering and visualization tools for dynamic dashboard analysis. The provided queries cover key metrics and chart requirements, offering a comprehensive understanding of pizza sales data. By implementing the outlined recommendations, the organization can derive actionable insights, enhance decision-making processes, and adapt strategies to optimize overall business performance. Regular monitoring and refinement of analytical methods will contribute to sustained success in the dynamic landscape of the pizza sales industry.
-![image](https://github.com/alex3381/Data-Analysis/assets/59268114/a2ebfa57-99fc-4fd6-ba51-19aa30e113d5)
 
 
 <img width="1470" alt="Screenshot 2023-12-20 at 7 00 47 pm" src="https://github.com/alex3381/Data-Analysis/assets/59268114/4c82e6ab-c08b-4304-acd4-e1ceef6f8206">
