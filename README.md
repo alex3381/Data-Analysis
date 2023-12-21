@@ -8,7 +8,7 @@ https://github.com/alex3381/Data-Analysis/assets/59268114/c16c4cdc-58b9-48df-b3b
 
 In pursuit of a comprehensive understanding of our business performance, we aim to analyze pivotal indicators within our pizza sales data. Our focus revolves around calculating specific metrics, including but not limited to:
 
-A). Total Revenue: The summation of the total price of all pizza orders.
+A). Total Revenue: The summation of the total price of all pizza orders.<br />
 B). Average Order Value: The mean amount expended per order, derived by dividing the total revenue by the total number of orders.
 C). Total Pizzas Sold: The cumulative quantity of all pizzas sold.
 D). Total Orders: The aggregate count of placed orders.
